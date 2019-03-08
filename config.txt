@@ -1,4 +1,4 @@
-token=NDY4MjE0NDA0MzcxMDU0NjIz.Di18rA.sMHM8DTKjRqt1LG9TCBv_EMhOxE
+token=
 owner=201460488037466112
 prefix=$
 game=$help - Gaming Lounge
